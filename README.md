@@ -1,4 +1,4 @@
 # first_repository
 This is my first repository.
 </br>
-Author: Titas Mandal
+Author: Titas Mandall
